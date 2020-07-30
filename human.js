@@ -11,3 +11,5 @@ function robot(name) {
 
 var john = new human("John");
 var pepper = new robot("pepper");
+
+console.log(john);
