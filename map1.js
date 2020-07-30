@@ -42,5 +42,4 @@ const animals = [
 ];
 
 const names = animals.map((animalName) => animalName.name);
-
 console.log(names);

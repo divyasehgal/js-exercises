@@ -1,8 +1,8 @@
 var colors = ["red", "yellow", "green"];
-for (color of colors) {
-  console.log(color);
+for (i of colors) {
+  console.log(i);
 }
 
-for (abc of colors) {
-  console.log(abc);
+for (var i in colors) {
+  console.log(i);
 }
