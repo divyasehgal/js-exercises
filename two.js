@@ -7,4 +7,4 @@ function solution(str) {
   }
   return reversed;
 }
-console.log(solution("world"));
+solution("world");
