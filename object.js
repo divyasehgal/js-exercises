@@ -1,4 +1,4 @@
-different ways to create object in js
+//different ways to create object in js
 
 let obj = new obj();
 
